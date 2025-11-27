@@ -31,7 +31,10 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- **Accuracy**: Are all claims traceable to primary sources?
+- **Clarity**: Is the writing clear and appropriate for the target audience?
+- **Reproducibility**: Are all claims and experiments reproducible?
+- **Rigor**: Does the work adhere to high academic standards?
 
 ## Project Structure
 
