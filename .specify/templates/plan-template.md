@@ -31,10 +31,10 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-- **Accuracy**: Are all claims traceable to primary sources?
-- **Clarity**: Is the writing clear and appropriate for the target audience?
-- **Reproducibility**: Are all claims and experiments reproducible?
-- **Rigor**: Does the work adhere to high academic standards?
+- **Purpose**: Does the AI's proposed action align with its purpose?
+- **Rules**: Is the AI following all the rules defined in the constitution?
+- **Boundaries**: Is the AI operating within the defined boundaries of the application?
+- **Standards**: Is the AI adhering to the coding, testing, and documentation standards?
 
 ## Project Structure
 
